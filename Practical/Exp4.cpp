@@ -23,14 +23,6 @@ return length*width;
 float Perimeter(){
 return 2*(length+width);
 }
-
-float dispLength(){
-return length;
-}
-
-float dispWidth(){
-return width;
-}
 };
 
 int main(){
